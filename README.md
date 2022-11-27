@@ -38,3 +38,9 @@ Karakterin Sözleri-Alıntıları Ekranı:
 --
 
 Kolay gelsin :)
+
+# Screenshots
+
+
+![Login](https://https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/screenshots/1.png?raw=true)
+
