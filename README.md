@@ -42,5 +42,11 @@ Kolay gelsin :)
 # Screenshots
 
 
-![Login](https://https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/screenshots/1.png?raw=true)
+![Login](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/blob/main/screenshots/1.png?raw=true)
+[Login](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/blob/main/screenshots/2.png?raw=true)
+[Login](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/blob/main/screenshots/3.png?raw=true)
+[Login](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/blob/main/screenshots/4.png?raw=true)
+[Login](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/blob/main/screenshots/5.png?raw=true)
+[Login](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/blob/main/screenshots/6.png?raw=true)
+[Login](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fourth-week-homework-alirizaihn/blob/main/screenshots/7.png?raw=true)
 
